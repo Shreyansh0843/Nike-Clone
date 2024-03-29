@@ -1,9 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/responsive-nike-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/responsive-nike-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/responsive-nike-clone?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/geekyprashant?style=social)](https://twitter.com/intent/follow?screen_name=geekyprashant)
+
  
   <br />
 
@@ -11,7 +8,7 @@
 
   In this project, I have created Responsive Nike Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/responsive-nike-clone/"><strong>➥ Live Demo</strong></a>
+ 
 
 </div>
 
@@ -32,18 +29,16 @@ To run **responsive-nike-clone** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/responsive-nike-clone.git
+sudo git clone https://github.com/Shreyansh0843/Nike-Clone.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/responsive-nike-clone.git
+git clone https://github.com/Shreyansh0843/Nike-Clone.git
 ```
 
-### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
 
 ### License
 
